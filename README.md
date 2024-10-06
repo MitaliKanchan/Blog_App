@@ -5,19 +5,28 @@ This repository contains a blog application where women can create, read, update
 Features:
 
 Create Blogs: Users can write and publish blogs related to health and wellness.
+
 Edit Blogs: Users can modify the content of their existing blogs.
+
 Delete Blogs: Users can remove blogs they no longer wish to keep.
+
 User Authentication: Secure login and registration system to ensure privacy.
+
 Responsive Design: Optimized for use across various devices (desktop, tablet, mobile).
+
 User Profiles: Users can manage their profiles, including profile picture uploads and viewing all their posts.
 
 
 Tech Stack:
+
 Frontend:
+
 React.js for building the user interface.
 
 Backend:
+
 Node.js with Express.js for handling API requests.
+
 MongoDB for storing user and blog data.
 
 ![image](https://github.com/user-attachments/assets/4c620cd8-dbfd-4040-9146-ba30ff78148d)
